@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "雛鳥",
+  "base_artist": "花譜",
+  "createdAt": "2025-12-17T13:33:17.473446Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雛鳥 - Vocalized Version",
+      "artist": "Linked Horizon",
+      "has_synced": true,
+      "path": "select/01_雛鳥_-_Vocalized_Version_Linked_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baby Bird (Vocalized Version) [雛鳥]",
+      "artist": "Linked Horizon",
+      "has_synced": true,
+      "path": "select/02_Baby_Bird_(Vocalized_Version)_[雛鳥]_Linked_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雛鳥 [Vocalized Version]",
+      "artist": "Linked Horizon",
+      "has_synced": true,
+      "path": "select/03_雛鳥_[Vocalized_Version]_Linked_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雛鳥［Vocalized Version］",
+      "artist": "Linked Horizon",
+      "has_synced": true,
+      "path": "select/04_雛鳥[Vocalized_Version]_Linked_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雛鳥",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/05_雛鳥_花譜.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雛鳥",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/06_雛鳥_花譜.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "雛鳥 (傘村トータ Remix)",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/07_雛鳥_(傘村トータ_Remix)_花譜.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "雛鳥",
+      "artist": "WHITE-LIPS",
+      "has_synced": false,
+      "path": "select/08_雛鳥_WHITE-LIPS.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "雛鳥 (傘村トータ Remix)",
+      "artist": "KAF",
+      "has_synced": true,
+      "path": "select/09_雛鳥_(傘村トータ_Remix)_KAF.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雛鳥",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_雛鳥_花譜.txt"
+    }
+  ]
+}
